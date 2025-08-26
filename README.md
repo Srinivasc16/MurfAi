@@ -1,6 +1,6 @@
 # MurfAI
 
-MurfAI is an AI-powered voice application built with **React** and **FastAPI**, leveraging the **Murf TTS API**. The application provides three primary voice-based features:
+MurfAI is an AI-powered voice platform built with **React** and **FastAPI**, leveraging the **Murf TTS API**. The application provides three primary voice-based features:
 
 1. **Voice News Reader** – Reads news headlines and descriptions aloud in natural-sounding voices.
 2. **AI Voice Storyteller** – Converts text-based stories into speech with expressive voice styles.
